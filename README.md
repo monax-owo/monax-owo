@@ -6,8 +6,7 @@ Now I'm interested in Rust.
 [![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)  
 ### I'm currently learning 📝
 
-[![My Skills](https://skillicons.dev/icons?i=git,js,ts,html,css,sass,tailwind,vite,electron,nodejs)](https://skillicons.dev)  
-and, inkscape, gimp.
+[![My Skills](https://skillicons.dev/icons?i=git,js,ts,html,css,sass,tailwind,vite,electron,nodejs)](https://skillicons.dev) 
  
 ### I'm currently interest 📌
 
