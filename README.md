@@ -10,4 +10,4 @@ Now I'm interested in Rust.
  
 ### I'm currently interest 📌
 
-[![My Skills](https://skillicons.dev/icons?i=astro,pug,firebase,supabase,threejs,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=yew,astro,pug,firebase,supabase,threejs,)](https://skillicons.dev)
