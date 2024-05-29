@@ -10,4 +10,4 @@ Now I'm interested in Rust and Tauri.
  
 ### I'm currently interest 📌
 
-[![My Skills](https://skillicons.dev/icons?i=yew,astro,pug,supabase,threejs,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lit,yew,astro,pug,supabase,threejs,figma,)](https://skillicons.dev)
