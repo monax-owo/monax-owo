@@ -1,4 +1,4 @@
-<div align="center"><a href="https://monax-owo.github.io/monadic" target="_blank">Monadic</a></div>
+<h2 align="center"><a href="https://monax-owo.github.io/monadic" target="_blank">Monadic</a></h2>
 
 ### Hi there 👋
 
