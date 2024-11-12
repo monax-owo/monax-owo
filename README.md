@@ -7,4 +7,4 @@ Now I'm interested in Tauri and Bevy.
 
 ### I'm currently interest 📌
 
-[![My Skills](https://skillicons.dev/icons?i=lit,yew,supabase,threejs,figma,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,figma,threejs,lit,yew,supabase,)](https://skillicons.dev)
